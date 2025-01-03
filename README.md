@@ -49,6 +49,7 @@
 ---
 
 ## 📸 Screenshots  
-*(Add your screenshots here)*  
+### Homepage:  
+![Homepage](Weatherapp_homepage.png) 
 
 ---
